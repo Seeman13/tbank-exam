@@ -13,3 +13,8 @@ venv/
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb
+
+
+/task_2/2a.py
+/task_2/2b.py
+/task_3/3а.py
